@@ -1,4 +1,4 @@
-wname: test every pr
+name: test every pr
 on:
   workflow_dispatch:
   pull_request:
